@@ -1,0 +1,7 @@
+### SREP First section###
+Be noticed, this section you need to obtain the single-cell sequencing data based candidate genes by yourself.
+
+According to our study decribed, the cell-type occupied a relatively position and based on prior-knowledge in cancer single-cell atlas may be more relevant to cancer progress.
+Different cancer types have different situation, readers need to make your project according to your detail plan.
+
+As for single-cell data analysis, 10x Genomics can enable you to process your single cell gene expression data.(https://www.10xgenomics.com/)
